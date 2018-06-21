@@ -1,1 +1,2 @@
-# Twitter-Sniper
+# Twitter-Snipper
+pip3 install mechanicalsoup 
